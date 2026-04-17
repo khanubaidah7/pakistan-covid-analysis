@@ -17,9 +17,12 @@ Key Analysis
 - Peak day identification
 
 Dashboard Preview
-<img width="584" height="328" alt="overall situation dashboard" src="https://github.com/user-attachments/assets/9228fe41-eb79-4e76-bc0d-575c20eee229" />
-<img width="593" height="335" alt="city wise situation" src="https://github.com/user-attachments/assets/0d381a8b-c552-45e3-804d-4610bee95f35" />
-<img width="599" height="336" alt="traveling impact" src="https://github.com/user-attachments/assets/85e9bc90-63a4-4816-a769-e0f64a8e632a" />
+<img width="593" height="337" alt="overall situation dashboard" src="https://github.com/user-attachments/assets/860f982f-db0c-4520-b682-20d6f6dca542" />
+
+<img width="594" height="336" alt="city wise situation" src="https://github.com/user-attachments/assets/c2084923-e500-4c5f-8b11-cfaf7d943e73" />
+
+<img width="591" height="339" alt="traveling impact" src="https://github.com/user-attachments/assets/8858a6c8-593b-47ed-a953-90925ca9641f" />
+
 
 Project Structure
 - data/ – cleaned datasets
