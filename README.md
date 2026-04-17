@@ -21,6 +21,7 @@ Dashboard Preview
 
 <img width="594" height="336" alt="city wise situation" src="https://github.com/user-attachments/assets/c2084923-e500-4c5f-8b11-cfaf7d943e73" />
 
+
 <img width="591" height="339" alt="traveling impact" src="https://github.com/user-attachments/assets/8858a6c8-593b-47ed-a953-90925ca9641f" />
 
 
